@@ -10,7 +10,7 @@ nav_order: 1
 Instructor: Prof. Scott Cunningham
 
 | Day      | Topic                                                 | Link                                            | Key          |
-| -------- | ----------------------------------------------------- | ----------------------------------------------- | ------------ |
+| -------- | ----------------------------------------------------- | ----------------------------------------------- | ---------    |
 | Day 1    | Experimental design and potential outcomes            | [Link](https://vimeo.com/1011688626?share=copy) | ci1_sept2024 |
 | Day 2(a) | Un-confoundedness (selection on observables) and DAGs | [Link](https://vimeo.com/1012037820?share=copy) | ci1_sept2024 |
 | Day 2(b) | Un-confoundedness (selection on observables) and DAGs | [Link](https://vimeo.com/1012037651?share=copy) | ci1_sept2024 |
