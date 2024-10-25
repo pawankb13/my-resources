@@ -6,11 +6,10 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Online Resources 
-
+# Online Resources
 {: .fs-9 }
 
-This online platform offers a comprehensive collection of resources for learning economics and econometrics concepts
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
 ---
