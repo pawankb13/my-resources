@@ -1,6 +1,7 @@
 ---
-title: Layout
-parent: Utilities
+title: Causal Inference I
+parent: Mixtape Sessions
+grand_parent: Causal Inference
 ---
 
 # Layout Utilities

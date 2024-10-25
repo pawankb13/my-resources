@@ -1,6 +1,7 @@
 ---
-title: Color
-parent: Utilities
+title: Causal Inference I
+parent: Mixtape Sessions
+grand_parent: Causal Inference
 ---
 
 # Color Utilities

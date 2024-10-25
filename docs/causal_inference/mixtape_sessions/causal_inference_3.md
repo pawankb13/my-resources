@@ -1,6 +1,7 @@
 ---
-title: Responsive Modifiers
-parent: Utilities
+title: Causal Inference I
+parent: Mixtape Sessions
+grand_parent: Causal Inference
 ---
 
 # Responsive modifiers
