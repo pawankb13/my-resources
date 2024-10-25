@@ -6,3 +6,8 @@ nav_order: 3
 ---
 
 # Causal Inference III
+
+Instructor: Prof. Scott Cunningham
+
+| Day   | Topic                                | Link | Key |
+| ----- | ------------------------------------ | ---- | --- |
