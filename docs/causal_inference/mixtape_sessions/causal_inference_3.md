@@ -11,3 +11,7 @@ Instructor: Prof. Scott Cunningham
 
 | Day   | Topic                                | Link | Key |
 | ----- | ------------------------------------ | ---- | --- |
+| Day 1 | Synthetic Controls Method            |      |     |
+| Day 2 | Multiple Treated Units and Staggered |      |     |
+
+  

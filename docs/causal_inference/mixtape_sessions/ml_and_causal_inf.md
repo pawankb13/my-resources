@@ -7,12 +7,12 @@ nav_order: 5
 
 # ML and Causal Inference
 
-Instructor: Prof. Peter Hull
+Instructor: Prof. Brigham Frandsen
 
-| Day         | Topic                                                    | Link                                 | Key           |
-| ----------- | -------------------------------------------------------- | ------------------------------------ | ------------- |
-| Day 1       | Introduction; Regression Recap, Selection on Observables | [Link](https://vimeo.com/1008067059) | dbi-sept-2024 |
-| Day 2       | Negative Weights and Clustering                          | [Link](https://vimeo.com/1008863939) | dbi-sept-2024 |
-| Day 3       | Recentered IV and Nonlinear Models                       | [Link](https://vimeo.com/1010090093) | dbi-sept-2024 |
-| Day 3 Extra | Recentered IV and Nonlinear Models                       | [Link](https://vimeo.com/939971210)  | dsgn_bsd_24   |
-
+| Day      | Topic                                 | Link                                 | Key           |
+| -------- | ------------------------------------- | ------------------------------------ | ------------- |
+| Day 1    | Conceptual Review of ML and Causality | [Link](https://vimeo.com/1021959810) | ml_ci_oct2024 |
+| Day 2_v1 | Supervised ML for Causal Questions    | [Link](https://vimeo.com/1022341029) | ml_ci_oct2024 |
+| Day 2_v2 | Supervised ML for Causal Questions    | [Link](https://vimeo.com/765714815)  | mixtape_ml    |
+| Day 3    |                                       |                                      |               |
+| Day 4    |                                       |                                      |               |

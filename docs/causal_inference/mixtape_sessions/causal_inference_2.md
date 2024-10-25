@@ -5,7 +5,7 @@ grand_parent: Causal Inference
 nav_order: 2
 ---
 
-# # Causal Inference II
+# Causal Inference II
 
 Instructor: Prof. Scott Cunningham
 
